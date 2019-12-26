@@ -1,2 +1,2 @@
 # APCS-Coursework
-Projects and activities completed in AP Computer Science
+Projects and Labs completed in AP Computer Science A
